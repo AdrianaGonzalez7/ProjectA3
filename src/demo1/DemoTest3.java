@@ -7,6 +7,10 @@ public class DemoTest3 {
 		
 		String name = "John Cena";
 		String country = "USA";
-		
+
+		// save changes
+
+		int y = 5;
+		int x = 3;
 	}
 }
